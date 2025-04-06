@@ -1,7 +1,7 @@
 
-= getting-started
+= Java Web Demo
 
-The `getting-started` project is a simple Jakarta EE application with a HTTP endpoint that is running in
+The `Java Web Demo` project is a simple Jakarta EE application with a HTTP endpoint that is running in
 https://wildfly.org[WildFly].
 
 The `src/main` folder contains a simple 'Hello world' style Jakarta EE application using JAX-RS.
